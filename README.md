@@ -13,4 +13,8 @@ added commentform
 attached commentnew list with commentform
 <img width="1915" height="892" alt="image" src="https://github.com/user-attachments/assets/57c8de14-4487-44fe-a2a4-b9db0036cfcb" />
 
+added validations using formik 
+<img width="1900" height="954" alt="image" src="https://github.com/user-attachments/assets/54d7ddf7-a946-4636-87c2-dc991f9f5819" />
+
+
 

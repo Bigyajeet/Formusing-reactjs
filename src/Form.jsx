@@ -32,17 +32,9 @@ export default function Form(){
     }
 
 
-    let handlesubmit=(event)=>{
-        event.preventDefault();
-        //to make the input empty we use this,
-        console.log(formData)
-        setFormData({
-        Fullname:"",
-        username:"",
-        password:"",                   //as obj passed
-    })
+    
 
-    }
+
     return(
         <form onSubmit={handlesubmit}>
             <label htmlFor="Fullname">FullName</label>
